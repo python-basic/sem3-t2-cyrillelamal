@@ -7,3 +7,4 @@ def fib(num):
 nums = list(fib(22))
 print(nums[10:12])
 print(nums[4:2:-1])
+print(nums[5])
